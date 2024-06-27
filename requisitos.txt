@@ -1,0 +1,20 @@
+La empresa de servicios para vehículos requiere un sistema integral de gestión que permita una eficiente coordinación entre los usuarios, los mecánicos y la administración de la empresa.
+
+ El principal objetivo es brindar un servicio ágil y conveniente tanto para los clientes que necesitan asistencia mecánica en el lugar donde se encuentren, como para los mecánicos que deben atender estos servicios de manera oportuna.
+
+El problema radica en la necesidad de desarrollar un software robusto y escalable que facilite todo el flujo de trabajo, desde la solicitud inicial del usuario hasta la finalización del servicio y el pago correspondiente.
+
+ Además, el sistema debe contemplar la gestión de inventarios de repuestos, el seguimiento de las solicitudes de servicio, la asignación dinámica de mecánicos disponibles y la generación de informes y estadísticas para fines administrativos y de mejora continua.
+
+Algunos de los aspectos clave que deben abordarse en el planteamiento del problema son:
+
+Interfaz de usuario amigable para la solicitud de servicios y seguimiento del estado de las solicitudes.
+Localización en tiempo real de los mecánicos disponibles más cercanos al lugar de la solicitud.
+Mecanismo de comunicación eficiente entre el usuario y el mecánico asignado.
+Proceso de validación de la disponibilidad del mecánico y aceptación del servicio.
+Gestión de pagos por los servicios prestados y las reparaciones realizadas.
+Integración con un sistema de inventario de repuestos y procesamiento de pedidos.
+Registro detallado de las solicitudes de servicio, incluyendo información del vehículo, ubicación, mecánico asignado y detalles del servicio.
+Generación de informes y estadísticas para la administración de la empresa.
+Escalabilidad y rendimiento del sistema para manejar un alto volumen de solicitudes simultáneas.
+Seguridad y privacidad de los datos de los usuarios y mecánicos.
